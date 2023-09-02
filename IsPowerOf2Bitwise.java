@@ -1,4 +1,4 @@
-/*Check wheteher if the input number is a power of 2 or not, using bitwise operations*/
+/*Check whether the input number is a power of 2 or not, using bitwise operations*/
 
 import java.util.Scanner;
 
