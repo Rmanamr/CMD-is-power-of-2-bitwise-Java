@@ -29,4 +29,5 @@ public class IsPowerOf2Bitwise{
 }
 
 
-//by Arman Azarnik
+// by Arman Azarnik
+// armanazarnik@gmail.com
